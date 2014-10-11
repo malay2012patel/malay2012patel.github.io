@@ -10,3 +10,4 @@ body {
      width: 400px;
      margin: 0 auto;
 }
+#navcontainer ul { list-style-type: none; }
