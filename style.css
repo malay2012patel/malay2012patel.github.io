@@ -10,4 +10,7 @@ body {
      width: 400px;
      margin: 0 auto;
 }
-
+ul
+{
+list-style-type: none;
+}
