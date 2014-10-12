@@ -2,10 +2,25 @@
 	margin: 10; 
 	padding: 3; 
 }
+
+
+.nav li {
+  display: inline;
+
+}
+
+body {
+    background: #666666;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    color: #000000;
+    margin-top:40px;
+}
 #header {
     top:0px;
-    right:20px;
-    left:20px;
+    right:0;
+    left:0;
     position:fixed;
     background: #eee;
     border:1px solid #ccc;
@@ -14,18 +29,25 @@
 #header h1 {
     margin: 0px;
     padding: opx;
-    font:18px "Plantagenet Cherokee";
     letter-spacing:2px;
 }
-
-.nav li {
-  display: inline;
-
+#footer {
+    padding: 0 10px;
+    background:#EEE;
+    bottom:0px;
+    right:0px;
+    left:0px;
+    position:fixed;
 }
-
-body {
-   font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
-   font-weight: 250;
+#container {
+    text-align: left;
+    padding: 20px;
+    width: 100%;
+    background: #FFF;
+}
+#footer p {
+    margin: 0;
+    padding: 10px 0;
 }
 #page-wrap {
      width: 400px;
