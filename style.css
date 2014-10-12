@@ -2,6 +2,9 @@
 	margin: 10; 
 	padding: 4; 
 }
+.nav li {
+  display: inline;
+}
 body {
    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
    font-weight: 250;
