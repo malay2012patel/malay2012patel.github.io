@@ -4,11 +4,7 @@
 }
 .nav ul {
   display: inline;
-}
-.jumbotron h1 {
-  position: relative;
-  top: 91px;
-  left: 55px;
+
 }
 body {
    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
